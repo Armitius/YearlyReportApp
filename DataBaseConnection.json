@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "striped-sight-351119",
+  "private_key_id": "56f7284c2c99ec526589b391eda5abe0d5c20959",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzxP5sLGMOWEXG\nZxHNmcFuMd6PAcFgf+PryyLAqAziCf64uS5G0ScfmNG6P/M3l9ZViL+qrAl0MQkj\nURszJR33WexDcaaQovvHKBSk+gUcOh9i2whRZ3Q4FwjtN4ymDXo7x0ppp33SY34t\nBS8oDWjNH3GR19vAZdnclsQAPv3cxqPNon0HFAN/jWItrKou8v6SQRorXy1txhev\n57dOp1ZnOoyPP54puceCVoyv/g4cHFFGMXPPTSW45ENjKVLfa8EUUzY+Sap2Bg9a\nlpZwFXStfUy/QTDCphfJpxlc2GxzAkExhTo7Y5FQ5wLO66yPmvIigOLtPIbfSZR4\njcMqmj4vAgMBAAECggEAUdhO01YUFSxYPB+h6d7mQ3K99pLghTxEuw4leNwp3WGa\nkGRy7rf7nXWYirjh1T4yTYfwZ1ZjCXznwaYEAbGU5pAQspYUNQaXJdGYMJJJ8FOA\nBaReMZ2tunm2TTX8uX8qVvwBY3/nl3lHsVyKXyxXugfmT3Wc7YgRe85CVzBWqQQc\nwK65arnAhcfMCs2wrQi1Ozy41kK2YWe+CDFIEOXP+MSb5DKrurxd3BRvMCV1F0Hd\nEe7MnXJoBhnHUuoeUj9CgJ1RU5s4SOrwKuMHt7gm0bSD0MSPSzOmJ/EWV5Net1hd\nfWLM/CZcYt145RUhYLboY35cujSrUIADDdccP9FmsQKBgQDsQXXLHJIoIw7Yvunu\n5qJi3vrG+jc0woFt2EybH4BtunumfbLxpyviS715CZl3cDXFxO8hq+DAeoaq5M9U\n9P4HZYEUhdT3rAXFF7Lx4U08ohWoBy6l0w3JLm0K8iYD7DycFraVSxNpSH2hNmDX\niV1cALem51b6f2D2KhCah3DwHwKBgQDCywwwhSXzv8buNLdeJ8Oa+cv9OPWEP6Re\nEN+Yn8nq8p+NDxqN8fmhlVnPrheQyt/CgezUzFNIWvfUy4pOmNwUuWw3jFel6fRo\nBH7Dy3AsMECUUyuxox6MRd9t/pOfF5k3QEFtEl0HsqqQaCXPPRa9kMxMwvvQEV/4\nvBgzCn2v8QKBgQCdMUzDsKXaiMD3G8egidnfuQbYX2Fd/FCLmpAV4lbcK2jcNORb\n/uOm9MgDgYyXuJQ+mzKUj7zBtIRnrkf4+e0PVM0Wr5kslUtdgNAyObrfLeUE4Ip8\nELoqcnZhAw6iK4uEO2SOXt5yfaYBHqI+pon0jhGjvmbT0u7bus9DUfyl9wKBgQCH\nRs2TUJR3v4JeYRvK9qCAGuQQWiMfEbeLX/p4Gtf2I0KsioWteBMdpQO3F7bj5hAZ\nG3OmoLNht1MPY78MMFn+xnqh5QPlhCEor559SOYAug3PNCdO+PI5BjlRQQ+x14ie\n9y+4mJ0kwG51VO6VCl6ljU5kLLEF4Vsd+TpxD+MTcQKBgFWMBJI+PoP9ZX1mrAa5\n0bj54OLTEKZEh0c37Vh6BOspBIIZLgu+5jFZkue+lR0IS50WVM9DqTeIqLWhaA01\n7M/QH1pQ5IbNScf0lw7jdtdXo5OZdA1nh8NEAkbxh2vgDUUVNHyEw1jToRYc0T03\n0cPUYqtnRs8qZXssWsRprDAT\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-engine-default-service-acc@striped-sight-351119.iam.gserviceaccount.com",
+  "client_id": "111831165149038235259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-engine-default-service-acc%40striped-sight-351119.iam.gserviceaccount.com"
+}
