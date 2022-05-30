@@ -27,6 +27,7 @@ Screen:
         valign:'center'
         pos_hint: {'center_x': 0.5, 'top': 0.7}
         size_hint_x: None
+        width : 500
             
     MDTextField: 
         id: description
@@ -36,6 +37,7 @@ Screen:
         valign:'center'
         pos_hint: {'center_x': 0.5, 'top': 0.6}
         size_hint_x: None
+        width : 500
             
     MDDropDownItem:
         id: transaction_type   
