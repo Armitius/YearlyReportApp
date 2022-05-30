@@ -12,8 +12,6 @@ from kivy.metrics import dp
 from helpers import screen_helper
 import DatabaseHandlers
 
-Window.size = (300,500) #remove when publishing app
-
 class YearlyReportApp(MDApp):
 
 
